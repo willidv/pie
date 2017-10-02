@@ -1,0 +1,8 @@
+1) pip install Django:  pip is a tool for installing Python packages from the Python Package Index. this command will install Django, which is a web framework that takes care of much of the hassle of Web development, so you can focus on writing your app.
+2) pip list will list installed packages including editables.
+3) after you run "pip install Django" the command promt wil lshow that Django was downloaded and then show that pytz was downloaded and that those two packages were successfully installed
+4)pip freeze will Output installed packages in requirements format.
+5)If you run this code in your command prompt you see all the directory of all the files in Desktop and how much free space is available
+6)If you run this code in your command prompt you will uninstall all of Django and it will ask you if you wish to continue
+7)if you run this code in your command prompt it will show a summary of what Django is, its location, requirements, latest version, homepage and author contact information.
+8) if you run this code in your command prompt it will show all information related to flask and what each flask command or package is used for
