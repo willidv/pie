@@ -41,8 +41,10 @@ class Call_Center(object):
 
 Call1 = Call(id, "David", "222222222", "8:00", "because")
 Call2 = Call(id, "Virginia", "333333333", "8:01", "same")
-Call_Center1 = Call_Center()
-Call_Center1.called(Call1)
-Call_Center1.received()
-Call_Center1.display_list()
+Call1.display()
+Call2.display()
+# Call_Center1 = Call_Center()
+# Call_Center1.called(Call1)
+# Call_Center1.received()
+# Call_Center1.display_list()
 
